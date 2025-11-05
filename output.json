@@ -1,0 +1,18 @@
+[
+    {
+        "question_id": "Q1",
+        "evaluations": [
+            {
+                "kpi": "Technical Knowledge",
+                "score": 5,
+                "feedback": "The answer mentions the SOLID principles but lacks detail on each principle, only naming them."
+            },
+            {
+                "kpi": "Communication",
+                "score": 6,
+                "feedback": "The answer is concise but could be improved by elaborating on the meaning of each principle."
+            }
+        ],
+        "Opinion": "The response is a basic start, but significantly lacks depth and explanation! "
+    }
+]
