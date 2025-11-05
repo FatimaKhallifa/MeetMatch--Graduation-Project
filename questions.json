@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "text": "What is object-oriented programming?",
+    "required_answer": "Object-oriented programming is a programming paradigm that is based on the concept of objects.",
+    "related_kpis": ["technical_knowledge", "communication"]
+  },
+  {
+    "text": "Explain the SOLID principles.",
+    "required_answer": "The SOLID principles are a set of design principles that aim to make software designs more understandable, flexible, and maintainable. The principles are: Single Responsibility Principle (SRP), Open-Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP), Dependency Inversion Principle (DIP).",
+    "related_kpis": ["technical_knowledge", "problem_solving"]
+  }
+]
